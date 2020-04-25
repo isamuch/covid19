@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b42fc82c.chunk.css",
+    "main.js": "/static/js/main.eee5d17a.chunk.js",
+    "main.js.map": "/static/js/main.eee5d17a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c4d37a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c4d37a9.js.map",
+    "static/js/2.8a8f1f25.chunk.js": "/static/js/2.8a8f1f25.chunk.js",
+    "static/js/2.8a8f1f25.chunk.js.map": "/static/js/2.8a8f1f25.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b54d17ff187c0b76585c4037f1fd425a.js": "/precache-manifest.b54d17ff187c0b76585c4037f1fd425a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b42fc82c.chunk.css.map": "/static/css/main.b42fc82c.chunk.css.map",
+    "static/js/2.8a8f1f25.chunk.js.LICENSE.txt": "/static/js/2.8a8f1f25.chunk.js.LICENSE.txt",
+    "static/media/death.svg": "/static/media/death.b4946b34.svg",
+    "static/media/fever.svg": "/static/media/fever.5c310782.svg",
+    "static/media/strength.svg": "/static/media/strength.3fcab48b.svg",
+    "static/media/thailand.svg": "/static/media/thailand.c72046a7.svg",
+    "static/media/virus.svg": "/static/media/virus.d29cc4fb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c4d37a9.js",
+    "static/js/2.8a8f1f25.chunk.js",
+    "static/css/main.b42fc82c.chunk.css",
+    "static/js/main.eee5d17a.chunk.js"
+  ]
+}
